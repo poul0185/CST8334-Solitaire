@@ -2,8 +2,8 @@
 The following steps outline the procedure to download our solitaire game as a standalone runnable .exe file. 
 When viewing the master branch of the CTS8334-Solitaire repository, this is the page you should see:
 
-![alt text](https://github.com/poul0185/CST8334-Solitaire/tree/main/img/img_1.png?raw=true)
-https://github.com/poul0185/CST8334-Solitaire/tree/main/img/img_1?raw=true
+![alt text](https://github.com/poul0185/CST8334-Solitaire/tree/main/img/img_1.png)
+
  
 From here, click on the file named SolitaireV1.0.zip. The following page should appear:
  
